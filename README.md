@@ -1,2 +1,0 @@
-# xai-diabetes
-XAI project
